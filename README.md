@@ -1,6 +1,6 @@
 # Code Your Career
 
-This webpage is a guide to increasing one's programming knowledge and contains general tips and resources that have been gathered from hours of searching and watching videos which will be useful for anyone looking to get into coding or tech in general. As more information/resources are learned and gathered, the moderators will continue update the webpage to be even more helpful.
+This webpage is a guide to increasing one's programming knowledge and contains general tips and resources that have been gathered from hours of searching and watching videos which will be useful for anyone looking to get into coding or tech in general. As more information/resources are learned and gathered, the moderators will continue update the webpage to be even more helpful. Note that while certificates can be tempting to pay for, the more important aspects of these courses are the skills you derive from them so keep that in mind and approach these courses.
 
 ## Table Of Contents
 
@@ -13,14 +13,14 @@ This webpage is a guide to increasing one's programming knowledge and contains g
 <a name="free-programming-resources"></a>
 
 ## Free Programming Resources:
-
 - [Harvard's CS50](https://pll.harvard.edu/subject/computer-science)
-	- CS50X: teaches CS in an interesting way and languages include C, SQL, Python and JS
+	- CS50x: teaches CS in an interesting and clear way and languages include C, SQL, Python, HTML, CSS and JS
 	- CS50P: In-depth Python classes
-	- CS50W: Web development
-	- CS50G: Game development
-	- CS50AI: Artificial Intelligence
-	A free certificate will be given to you once you finish a course
+	- CS50W: Web development using JS and Python
+	- CS50G: Game development using Unity and LÖVE 2D as well as languages like C# and Lua
+	- CS50AI: In-depth Artificial Intelligence lessons<br />
+	A free certificate will be given to you once you finish a course<br />
+	Please note that these courses are only to introduce these concepts and explain them in a challenging way. These will not help land a job immediately but will help you get started on the path to getting a tech job.
 - [MIT's Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
 	- Introduces mathematics oriented towards computer science and engineering
 - [LeetCode](https://leetcode.com/)
@@ -29,6 +29,11 @@ This webpage is a guide to increasing one's programming knowledge and contains g
 	- The modern JavaScript tutorial
 - [freeCodeCamp.org](https://www.freecodecamp.org/learn)
 	- Has lots of courses that teach various useful computer related topics with valid certificates
+
+
+## Paid Programming Resources:
+- [Google Certified Classes](https://grow.google/certificates/#?modal_active=none)
+	- Has paid courses which teach some technical skills
 
 <a name="YT-channels"> </a>
 
