@@ -62,4 +62,4 @@ This webpage is a guide to increasing one's programming knowledge and contains g
 
 ## About this guide
 
-These tips were written by [Taanviir](https://github.com/Taanviir) and put together by [mahadadad](https://github.com/mahadadad).
+These tips were written by [Taanviir](https://github.com/Taanviir) and put together by [mahahahad](https://github.com/mahahahad).
