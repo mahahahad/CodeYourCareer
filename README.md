@@ -1,58 +1,65 @@
 # Code Your Career
 
-Some tips related to coding and how you can improve and start your career.
+This webpage is a guide to increasing one's programming knowledge and contains general tips and resources that have been gathered from hours of searching and watching videos which will be useful for anyone looking to get into coding or tech in general. As more information/resources are learned and gathered, the moderators will continue update the webpage to be even more helpful.
 
 ## Table Of Contents
 
 1. [Free Programming Resources](#free-programming-resources)
-2. [YouTube channels](#YT-channels)
+2. [Insightful YouTube channels](#YT-channels)
 3. [General Tips](#general-tips)
 4. [About This Guide](#about-this-guide)
 
 		
 <a name="free-programming-resources"></a>
-### Free Programming Resources:
-- Virtual
-	- [Harvard's CS50](https://pll.harvard.edu/subject/computer-science)
-		- CS50x: teaches CS in an interesting way and languages include C, SQL, Python and JS
-		- CS50P: In-depth Python classes
-		- CS50W: Web development
-		- CS50G: Game development
-		- CS50AI: Artificial Intelligence 
-	- [MIT's Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
-		- Introduces mathematics oriented towards computer science and engineering
-	- [LeetCode](https://leetcode.com/)
-		-	Programming challenges to improve your coding knowledge in any language
-	-	[JavaScript.Info](https://javascript.info/)
-		-	The modern JavaScript tutorial
-- IRL
-	- 42 Abu Dhabi boot camp 
+
+## Free Programming Resources:
+
+- [Harvard's CS50](https://pll.harvard.edu/subject/computer-science)
+	- CS50X: teaches CS in an interesting way and languages include C, SQL, Python and JS
+	- CS50P: In-depth Python classes
+	- CS50W: Web development
+	- CS50G: Game development
+	- CS50AI: Artificial Intelligence
+	A free certificate will be given to you once you finish a course
+- [MIT's Mathematics for CS](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about)
+	- Introduces mathematics oriented towards computer science and engineering
+- [LeetCode](https://leetcode.com/)
+	- Programming challenges to improve your coding knowledge in any language while also preparing your for interviews
+-	[JavaScript.Info](https://javascript.info/)
+	- The modern JavaScript tutorial
+- [freeCodeCamp.org](https://www.freecodecamp.org/learn)
+	- Has lots of courses that teach various useful computer related topics with valid certificates
 
 <a name="YT-channels"> </a>
-### YouTube Channels:
-- [freeCodeCamp.org](https://www.freecodecamp.org/): Has every code related thing you can imagine
+
+## Insightful YouTube Channels:
+
+- [freeCodeCamp.org](https://www.youtube.com/c/Freecodecamp): Has every code and computer science related tutorial videos and motivational videos as well
 - [Tech with Tim](https://www.youtube.com/c/TechWithTim): Great in explaining Python stuff
 - [Fireship](https://www.youtube.com/c/Fireship): Makes short, explanatory videos about everything new and important for programming
-- [ForrestKnight](https://www.youtube.com/c/FKnight): good for understanding comp sci in general
-- [Joshua Fluke](https://www.youtube.com/c/JoshuaFluke1): Explains the truth behind job requirements 
+- [ForrestKnight](https://www.youtube.com/c/FKnight): Good for understanding computer sciience in general
+- [Joshua Fluke](https://www.youtube.com/c/JoshuaFluke1): Explains the truth behind jobs that have aggregious requirements that most people don't realize
 
 
 <a name="general-tips"></a>
-### General Tips:
 
-- Don't wait till your last year to start using job hunting tricks, start now to understand what recruiters want and what you should build your resume's around
-- Attend any events and stuff in your unis to make connections and look for opportunities
-- Try participating in hackathons and even if u don't know much as to what to do, attend it just to know how it is and to understand how it works
-- Learn how to explain your thought process when doing projects as you're going to have to do the same during job interviews. in job interviews, they want to see how u tackle the problem so u should ask questions no matter how small about the problem and explain your thought process as this gives the recruiter the idea that you are a capable teacher and can ask questions without the fear of embarrassment
-- KEEP MAKING PROJECTS: this can be anything no matter how simple or how complex like a calculator, to do list etc...
-- When using LinkedIn to find job requirements 
+## General Tips:
 
-	Remember: 
-	while LinkedIn has many jobs, there are jobs that ask you to do 10 job's work.
-	(like a company wanting a web developer could ask you to also do the graphics, 
-	animation, interface design, etc... Things which are generally out of your jobs scope)
+### Jobs
+- Do not wait till your last year to start job hunting. Use your time now to study up on local and international companies so that you have a proper idea of what you will want to be once you're done with your degree.
+- Start now to understand what recruiters want and what you should build your resume's around.
+- In technical interviews, the recruiters want to see how you tackle the problem and not your solution itself as these recruiters mostly know the answer already so your focus should be on asking as many questions as you can no matter how insignificant as this shows the interviewer that you want to make sure your code will be flawless and that you are actually thinking about every possible step of your code. Then when actually solving the problem, try writing pseudocode and explain your thought process to the interviewer to show them that you know what you are talking about and that you can clearly explain your code.
+- Use LinkedIn to find job requirements for the fields you want to go into by searching your job in the "search" box and checking the most popular offerings. However, remember	while LinkedIn has many jobs, there are jobs that will have ridiculous requirements like an entry level job asking you for 10 years of experience in one skill or asking you to do 10 job's work disguised as one like a company wanting a web developer wanting you to also do the graphics, animation, interface design, etc... Things which are generally out of your jobs scope.)
+
+### Knowledge & Skill
+- It is better to be an expert in a select few languages than to shallowly know many languages.
+- Attend as many events as you can in your universities such as career fairs, hackathons, club events and more to make connections and look for opportunities. A bonus if you participate as this can help you learn things practically.
+- Try participating in hackathons and even if you don't know much as to what to do, attend it just to know how it is and to understand how it works as hackathons are more than just coding. They're about making a product and marketing it to the judges. Winning is not what matters, its participating and gaining insightful knowledge that really matters.
+- One way you can practice your knowledge of your projects is by explaining your complex projects and such to a friend with no coding knowledge. If you can explain them how your code works then you can be assured your code will work properly too.
+- **KEEP. MAKING. PROJECTS.** : this can be anything no matter how simple or how complex like a simple calculator, a to-do list maker, a game solving AI, etc. Projects are the best way to show your abilities to anyone that glances at your resume/portfolio so make sure you have a lot of them. However, only once you have a lot of projects then pick and choose the best ones to showcase your talents.
 
 <a name="about-this-guide"></a>
-### About this guide
 
-These tips were written by [Taanviir](https://github.com/Taanviir). 
+## About this guide
+
+These tips were written by [Taanviir](https://github.com/Taanviir) and put together by [mahadadad](https://github.com/mahadadad).
