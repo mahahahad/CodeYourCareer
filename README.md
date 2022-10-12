@@ -38,6 +38,8 @@ This webpage is a guide to increasing one's programming knowledge and contains g
 	- The modern JavaScript tutorial
 - [freeCodeCamp.org](https://www.freecodecamp.org/learn)
 	- Has lots of courses that teach various useful computer related topics with valid certificates
+- [Daily Coding Problem](https://www.dailycodingproblem.com/)
+	- This one is a newsletter that sends coding problems to you everyday. The questions are for free however the solutions are not and you would need to pay for them
 
 
 <a name="paid-programming-resources"> </a>
